@@ -6,7 +6,7 @@ In my time un University I undertook two independent study projects ( ECE 399 ).
 
 Reversed engineered an apple shaped Alphabet toy and added custom hardware to allow for a large button to select the lit up letter so that kiddos with motor function issues can play.
 
-![apple unopened](./assets/apple-unopened.png)
+![apple unopened](./assets/apple-unopened.jpg)
 ![choo choo board](./assets/board.png)
 
 ## Modular Power Switcher
